@@ -63,9 +63,6 @@
     <Image Include="voice.ico">
       <Filter>资源文件</Filter>
     </Image>
-    <Image Include="icon4.ico">
-      <Filter>资源文件</Filter>
-    </Image>
     <Image Include="more.ico">
       <Filter>资源文件</Filter>
     </Image>
