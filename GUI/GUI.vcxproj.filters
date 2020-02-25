@@ -51,9 +51,6 @@
     <Image Include="wrong.ico">
       <Filter>资源文件</Filter>
     </Image>
-    <Image Include="keyboard.ico">
-      <Filter>资源文件</Filter>
-    </Image>
     <Image Include="add.ico">
       <Filter>资源文件</Filter>
     </Image>

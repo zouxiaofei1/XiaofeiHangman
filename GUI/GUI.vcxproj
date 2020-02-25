@@ -171,7 +171,6 @@
   <ItemGroup>
     <Image Include="add.ico" />
     <Image Include="GUI.ico" />
-    <Image Include="keyboard.ico" />
     <Image Include="more.ico" />
     <Image Include="random.ico" />
     <Image Include="small.ico" />
